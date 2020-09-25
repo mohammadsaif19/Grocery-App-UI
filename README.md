@@ -1,8 +1,19 @@
-# grocery_app_ui
+# Grocery App UI Using Flutter
+This is a beautiful grocery app UI created by using Flutter for beginners or pro.
 
-A new Flutter project.
+# Feel free to use in your project
+# Don't forget to star the repo and follow me
+
+
+<p align="center"><a href="https://travis-ci.org/steverichey/google-play-badge-svg"><img src="https://travis-ci.org/steverichey/google-play-badge-svg.svg?branch=master" alt="Build status"></a><a href="./LICENSE.md"> <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT"></a></p>
+
+<img src="screenshot/1.png" width=400,>      <img src="screenshot/2.png" width=400, >
 
 ## Getting Started
+
+- Clone or download the project.
+- run : flutter pub get
+- run : flutter run --release
 
 This project is a starting point for a Flutter application.
 
